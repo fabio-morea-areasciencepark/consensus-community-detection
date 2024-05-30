@@ -24,7 +24,7 @@ R program to identify communities within a labour-market network.
 
 ## SPDX-License-Identifier: CC-BY-4.0
 
-## GitHab repository:  
+## GitHub repository:  
 https://github.com/fabio-morea-areasciencepark/consensus-community-detection
 
 ## DOI 
